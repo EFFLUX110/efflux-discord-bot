@@ -1,6 +1,7 @@
 on:
-  issues:
-    types: [labeled]
+    push:
+        branches:
+            - main
 
 jobs:
     contrib-readme-job:
@@ -9,7 +10,5 @@ jobs:
         steps:
             - name: Contribute List
               uses: akhilmhdh/contributors-readme-action@v2.3.3
-              with:
-                label: add me
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
