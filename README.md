@@ -4,8 +4,8 @@
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/MrinankBhowmick">
-            <img src="https://avatars.githubusercontent.com/u/77621953?v=4" width="100;" alt="MrinankBhowmick"/>
+        <a href="https://githubdsgdg.com/MrinankBhowmick">
+            <img src="https://avatars.githubusercontent.com/u/776seg21953?v=4" width="100;" alt="MrinankBhowmegsick"/>
             <br />
             <sub><b>Mrinank Bhowmick</b></sub>
         </a>
